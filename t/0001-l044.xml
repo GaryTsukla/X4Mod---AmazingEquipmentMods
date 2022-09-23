@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
+	<replace sel="/language/page[@id='20110']/t[@id='110110011']">
+    <t id="110110011">{20110,110110012} \(\1\.\1\x \r\o\t\a\t\i\o\n\)</t>
+  </replace>
+  <replace sel="/language/page[@id='20110']/t[@id='110230011']">
+    <t id="110110011">{20110,110230012} \(\2\x \r\o\t\a\t\i\o\n\)</t>
+  </replace>
+  <replace sel="/language/page[@id='20110']/t[@id='110330011']">
+    <t id="110110011">{20110,110330012} \(\4\x \r\o\t\a\t\i\o\n\)</t>
+  </replace>
+  <replace sel="/language/page[@id='20110']/t[@id='111030011']">
+    <t id="110110011">{20110,111030012} \(\6\x \r\o\t\a\t\i\o\n\)</t>
+  </replace>
+</diff>
